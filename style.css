@@ -11,6 +11,14 @@ body {
 	padding: 30px;
 }
 
+.titulo-principal {
+	padding-left: 20px;
+}
+
+.titulo-centralizado {
+	text-alion: center
+}
+
 h1 {
 	text-align: center
 }
